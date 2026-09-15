@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\bin\Debug\net10.0\BankAccountManagementSystem.exe
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\bin\Debug\net10.0\BankAccountManagementSystem.deps.json
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\bin\Debug\net10.0\BankAccountManagementSystem.runtimeconfig.json
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\bin\Debug\net10.0\BankAccountManagementSystem.dll
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\bin\Debug\net10.0\BankAccountManagementSystem.pdb
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.AssemblyInfo.cs
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.sourcelink.json
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.dll
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\obj\Debug\net10.0\refint\BankAccountManagementSystem.dll
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.pdb
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.genruntimeconfig.cache
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab2\BankAccountManagementSystem\obj\Debug\net10.0\ref\BankAccountManagementSystem.dll
