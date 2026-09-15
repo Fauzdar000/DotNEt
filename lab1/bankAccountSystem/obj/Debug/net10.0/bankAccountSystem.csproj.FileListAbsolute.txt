@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\bin\Debug\net10.0\bankAccountSystem.exe
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\bin\Debug\net10.0\bankAccountSystem.deps.json
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\bin\Debug\net10.0\bankAccountSystem.runtimeconfig.json
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\bin\Debug\net10.0\bankAccountSystem.dll
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\bin\Debug\net10.0\bankAccountSystem.pdb
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\Debug\net10.0\bankAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\Debug\net10.0\bankAccountSystem.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\Debug\net10.0\bankAccountSystem.AssemblyInfo.cs
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\Debug\net10.0\bankAccountSystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\Debug\net10.0\bankAccountSystem.dll
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\Debug\net10.0\refint\bankAccountSystem.dll
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\Debug\net10.0\bankAccountSystem.pdb
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\Debug\net10.0\bankAccountSystem.genruntimeconfig.cache
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\Debug\net10.0\ref\bankAccountSystem.dll
