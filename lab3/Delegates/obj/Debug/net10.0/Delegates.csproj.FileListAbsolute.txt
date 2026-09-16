@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\bin\Debug\net10.0\Delegates.exe
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\bin\Debug\net10.0\Delegates.deps.json
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\bin\Debug\net10.0\Delegates.runtimeconfig.json
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\bin\Debug\net10.0\Delegates.dll
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\bin\Debug\net10.0\Delegates.pdb
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\obj\Debug\net10.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\obj\Debug\net10.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\obj\Debug\net10.0\Delegates.AssemblyInfo.cs
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\obj\Debug\net10.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\obj\Debug\net10.0\Delegates.sourcelink.json
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\obj\Debug\net10.0\Delegates.dll
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\obj\Debug\net10.0\refint\Delegates.dll
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\obj\Debug\net10.0\Delegates.pdb
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\obj\Debug\net10.0\Delegates.genruntimeconfig.cache
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab3\Delegates\obj\Debug\net10.0\ref\Delegates.dll

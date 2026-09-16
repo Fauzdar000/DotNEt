@@ -12,3 +12,4 @@ C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\De
 C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\Debug\net10.0\bankAccountSystem.pdb
 C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\Debug\net10.0\bankAccountSystem.genruntimeconfig.cache
 C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\Debug\net10.0\ref\bankAccountSystem.dll
+C:\Users\Acer\Desktop\6th semester\Dotnet\labsheet\lab1\bankAccountSystem\obj\Debug\net10.0\bankAccountSystem.sourcelink.json
