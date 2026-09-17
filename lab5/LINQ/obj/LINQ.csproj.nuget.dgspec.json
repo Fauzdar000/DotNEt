@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\6th semester\\Dotnet\\labsheet\\lab4\\usingLamdaExpressions\\usingLamdaExpressions.csproj": {}
+    "c:\\Users\\Acer\\Desktop\\6th semester\\Dotnet\\labsheet\\lab5\\LINQ\\LINQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\6th semester\\Dotnet\\labsheet\\lab4\\usingLamdaExpressions\\usingLamdaExpressions.csproj": {
+    "c:\\Users\\Acer\\Desktop\\6th semester\\Dotnet\\labsheet\\lab5\\LINQ\\LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\6th semester\\Dotnet\\labsheet\\lab4\\usingLamdaExpressions\\usingLamdaExpressions.csproj",
-        "projectName": "usingLamdaExpressions",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\6th semester\\Dotnet\\labsheet\\lab4\\usingLamdaExpressions\\usingLamdaExpressions.csproj",
+        "projectUniqueName": "c:\\Users\\Acer\\Desktop\\6th semester\\Dotnet\\labsheet\\lab5\\LINQ\\LINQ.csproj",
+        "projectName": "LINQ",
+        "projectPath": "c:\\Users\\Acer\\Desktop\\6th semester\\Dotnet\\labsheet\\lab5\\LINQ\\LINQ.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\6th semester\\Dotnet\\labsheet\\lab4\\usingLamdaExpressions\\obj\\",
+        "outputPath": "c:\\Users\\Acer\\Desktop\\6th semester\\Dotnet\\labsheet\\lab5\\LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
